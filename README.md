@@ -1,7 +1,2 @@
-Interactive Map with d3.js
-==========================
-
-This repo contains Javascript source and TopoJson data files
-that are used in this tutorial:
-
-http://www.tnoda.com/blog/2013-12-07
+#Mapa interactivo con D3
+Prueba de concepto de mapa interactivo utilizando D3 y topojson. Se puede enviar las coordenadas a un servidor que las reenvía de nuevo vía Websocket (base a utilizar para actulización en tiempo real).
